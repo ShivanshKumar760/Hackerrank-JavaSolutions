@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------
 
 Problem Title: Welcome to Java!
-Problem Link: https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/460341617
+Problem Link: https://www.hackerrank.com/challenges/welcome-to-java/submissions/code/460339598
 Author: u
 Language : java15
 
